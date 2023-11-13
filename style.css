@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+  }
+  body {
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: Didot, serif;
+    background: linear-gradient(#110d17, #68479a);
+    color: #ebe0e3;
+  }
+  .myInput2{
+  background: linear-gradient(#333c2c, #7d9974);
+  }
+
+#center{
+    text-align: center;
+}
